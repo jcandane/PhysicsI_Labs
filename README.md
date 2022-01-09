@@ -1,4 +1,4 @@
-# PhysicsI_Labs
+# Physics I Labs
 
 Lab 1: Newton's 1st Law
 Lab 2: Newton's 2nd Law
